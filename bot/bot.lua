@@ -244,7 +244,7 @@ function create_config( )
      "poker2",
      "poker3",
      "laugh",
-     "vay",
+     "tongue",
      "love",
      "heart"
      },
