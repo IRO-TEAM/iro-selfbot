@@ -240,8 +240,15 @@ function create_config( )
      "tools",
      "weather",
      "webshot",
+     "poker1",
+     "poker2",
+     "poker3",
+     "laugh",
+     "vay",
+     "love",
+     "heart"
      },
-    sudo_users = {214592223,104583328},
+    sudo_users = {214592223},
     admin_users = {},
     disabled_channels = {}
   }
