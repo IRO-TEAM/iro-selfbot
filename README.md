@@ -1,10 +1,7 @@
-Self-Bot V2
-============
-
-A Telegram Bot based on [DBTeam bot](https://github.com/Josepdal/DBTeam).
-edited by:Xxicy_boyxX
-Installation
-------------
+# iro-selfbot new and best bot.
+* based on DBTeam.
+## edited by iro team
+________________________________________________________________________
 ```bash
 # Tested on Ubuntu 14.04, for other OSs check out https://github.com/yagop/telegram-bot/wiki/Installation
 sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev libevent-dev make unzip git redis-server g++ libjansson-dev libpython-dev expat libexpat1-dev
@@ -18,13 +15,10 @@ cd selfbot
 ./launch.sh install
 ./launch.sh # Will ask you for a phone number & confirmation code.
 ```
-
-telemax-team
------------------
+________________________________________________________________________
 
 [amin._.dhg](http://telegram.me/Xxicy_boyxX)<br>
 [ramtin](http://telegram.me/@raminoa)<br>
 [rastin](http://telegram.me/GORAZE)<br>
 
 
-goodluck ;)
