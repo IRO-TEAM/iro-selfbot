@@ -1,9 +1,9 @@
 # iro-selfbot new and best bot.
 * based on DBTeam.
-## edited by iro team
+* edited by iro team.
 ________________________________________________________________________
 * for install:
-* 
+
  sudo apt-get update
 
  sudo apt-get upgrade
