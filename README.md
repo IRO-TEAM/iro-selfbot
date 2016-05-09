@@ -1,6 +1,6 @@
 # iro-selfbot new and best bot.
 * based on DBTeam.
-* 
+
 ## edited by iro team.
 
 ________________________________________________________________________
