@@ -248,7 +248,7 @@ function create_config( )
      "love",
      "heart"
      },
-    sudo_users = {214592223},
+    sudo_users = {205903314},
     admin_users = {},
     disabled_channels = {}
   }
