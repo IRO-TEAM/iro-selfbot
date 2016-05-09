@@ -1,6 +1,7 @@
 # iro-selfbot new and best bot.
 * based on DBTeam.
 * edited by iro team.
+
 ________________________________________________________________________
 * for install:
 
@@ -19,11 +20,10 @@ cd selfbot
 
 ./launch.sh install
 
-./launch.sh # Will ask you for a phone number & confirmation code.
+./launch.sh 
 ________________________________________________________________________
 our team:
 * founder: [RaMiN](https://telegram.me/raminoa)
 * developer: [AmIn](https://telegram.me/xxicy_boyxx)
 * helper: [RaStIn](https://telegram.me/goraze)
-
-
+# goodluck 
