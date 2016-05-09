@@ -2,23 +2,28 @@
 * based on DBTeam.
 ## edited by iro team
 ________________________________________________________________________
-```bash
-# Tested on Ubuntu 14.04, for other OSs check out https://github.com/yagop/telegram-bot/wiki/Installation
-sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev libevent-dev make unzip git redis-server g++ libjansson-dev libpython-dev expat libexpat1-dev
-```
+* for install:
+* 
+ sudo apt-get update
 
-```bash
-# After those dependencies, lets install the bot
+ sudo apt-get upgrade
+
+sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev libevent-dev make unzip git redis-server g++ 
+libjansson-dev libpython-dev expat libexpat1-dev
+
 cd $HOME #Do not write this if you are using c9 or not root accounts
-git clone https://github.com/amin041/selfbot.git
-cd selfbot
-./launch.sh install
-./launch.sh # Will ask you for a phone number & confirmation code.
-```
-________________________________________________________________________
 
-[amin._.dhg](http://telegram.me/Xxicy_boyxX)<br>
-[ramtin](http://telegram.me/@raminoa)<br>
-[rastin](http://telegram.me/GORAZE)<br>
+git clone https://github.com/IRO-TEAM/iro-selfbot.git
+
+cd selfbot
+
+./launch.sh install
+
+./launch.sh # Will ask you for a phone number & confirmation code.
+________________________________________________________________________
+our team:
+* founder: [RaMiN](https://telegram.me/raminoa)
+* developer: [AmIn](https://telegram.me/xxicy_boyxx)
+* helper: [RaStIn](https://telegram.me/goraze)
 
 
